@@ -1,7 +1,7 @@
 {
-  "name": "statistic-api",
+  "name": "clean-api-boilerplate",
   "version": "1.0.0",
-  "description": "The Goomer statistics API",
+  "description": "Basic project structure for API service, following DDD & Clean Architecture",
   "scripts": {
     "start": "nodemon src/index.js --exec babel-node",
     "test": "jest --config=jest.config.js",
