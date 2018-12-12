@@ -8,6 +8,8 @@ Example of API following architecture, design and coding best practices of Goome
 + [Usage](#usage)
 + [Environment Examples](#environment-examples)
 + [Development](#development)
++ [DDD and Clean Architecture](#ddd-and-clean-architecture)
++ [Directory Structure](#directory-structure)
 
 + ## Requisites
 
