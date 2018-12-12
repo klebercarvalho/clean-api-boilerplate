@@ -51,16 +51,9 @@
   "dependencies": {
     "awilix": "^4.0.1",
     "awilix-koa": "^3.0.0",
-    "connect-redis": "^3.4.0",
-    "cors": "^2.8.5",
     "dotenv": "^6.2.0",
-    "helmet": "^3.15.0",
-    "joi": "^14.3.0",
     "koa": "^2.6.2",
     "koa-router": "^7.4.0",
-    "mongoose": "^5.3.15",
-    "pm2": "^3.2.3",
-    "redis": "^2.8.0",
     "winston": "^3.1.0"
   }
 }
